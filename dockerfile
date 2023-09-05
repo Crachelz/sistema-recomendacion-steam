@@ -4,6 +4,9 @@ FROM python:3.8-slim-buster
 # Establecer el directorio de trabajo en /app
 WORKDIR /app
 
+# Actualizar e instalar libpq-dev
+RUN apt-get update && apt-get install -y libpq-dev
+
 # Copiar el archivo requirements.txt al contenedor
 COPY requirements.txt requirements.txt
 

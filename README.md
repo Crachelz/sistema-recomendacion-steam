@@ -1,7 +1,15 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> caf92fc0ec8fb35652fd4e22ef2d94a350ce182e
 # Sistema de Recomendación de Videojuegos en Steam
 
 Este proyecto es un Sistema de Recomendación de Videojuegos en Steam que utiliza análisis de sentimiento de reseñas de usuarios y datos de juegos para proporcionar recomendaciones personalizadas.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> caf92fc0ec8fb35652fd4e22ef2d94a350ce182e
 ## Introducción
 
 Este proyecto tiene como objetivo proporcionar recomendaciones de videojuegos personalizadas a los usuarios de la plataforma Steam utilizando análisis de sentimiento de reseñas de juegos y datos de juegos disponibles públicamente.
@@ -72,5 +80,11 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 Si tienes preguntas o sugerencias, no dudes en ponerte en contacto con el equipo de desarrollo:
 
+<<<<<<< HEAD
 - [LinkedIn](https://www.linkedin.com/in/carolina-zamora-61494656/)
 
+=======
+
+https://www.linkedin.com/in/carolina-zamora-61494656/
+
+>>>>>>> caf92fc0ec8fb35652fd4e22ef2d94a350ce182e

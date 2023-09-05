@@ -1,22 +1,8 @@
-¡Por supuesto! Aquí tienes un README.md basado en nuestra conversación que puedes utilizar como punto de partida. Asegúrate de personalizarlo con detalles específicos de tu proyecto.
 
-```markdown
 # Sistema de Recomendación de Videojuegos en Steam
 
 Este proyecto es un Sistema de Recomendación de Videojuegos en Steam que utiliza análisis de sentimiento de reseñas de usuarios y datos de juegos para proporcionar recomendaciones personalizadas.
 
-## Contenido
-
-1. [Introducción](#introducción)
-2. [Requisitos](#requisitos)
-3. [Instalación](#instalación)
-4. [Ejecución Local](#ejecución-local)
-5. [Despliegue en Railway](#despliegue-en-railway)
-6. [Uso](#uso)
-7. [Documentación de la API](#documentación-de-la-api)
-8. [Contribución](#contribución)
-9. [Licencia](#licencia)
-10. [Contacto](#contacto)
 
 ## Introducción
 
@@ -94,10 +80,6 @@ Este proyecto se distribuye bajo la licencia [Nombre de la Licencia]. Consulta e
 
 Si tienes preguntas o sugerencias, no dudes en ponerte en contacto con el equipo de desarrollo:
 
-- [Correo Electrónico](tu-correo@ejemplo.com)
-- [Twitter](https://twitter.com/tu-usuario)
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario)
 
-```
+https://www.linkedin.com/in/carolina-zamora-61494656/
 
-Recuerda reemplazar las URL y la información específica de tu proyecto en los lugares correspondientes. ¡Buena suerte con tu proyecto!

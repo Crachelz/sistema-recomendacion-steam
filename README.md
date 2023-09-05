@@ -59,9 +59,6 @@ Para obtener recomendaciones de videojuegos, puedes hacer consultas a los endpoi
 - Obtener estadísticas por desarrollador: `/developer/{developer}`
 - Obtener análisis de sentimiento por año: `/sentiment_analysis/{year}`
 
-## Documentación de la API
-
-La documentación completa de la API, incluidos los endpoints disponibles y cómo usarlos, se encuentra disponible en [Swagger](URL_DE_TU_DOCUMENTACIÓN_API).
 
 ## Contribución
 
@@ -72,9 +69,6 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 3. Realiza tus cambios y commits: `git commit -m "Añadir nueva funcionalidad"`.
 4. Envía una solicitud de extracción (pull request) a la rama principal del proyecto.
 
-## Licencia
-
-Este proyecto se distribuye bajo la licencia [Nombre de la Licencia]. Consulta el archivo LICENSE.md para obtener más detalles.
 
 ## Contacto
 
